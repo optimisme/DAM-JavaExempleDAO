@@ -1,6 +1,6 @@
-# Exemple de Singleton #
+# Exemple de DAO #
 
-En aquest projecte hi ha un exemple de Singleton a Java
+En aquest projecte hi ha un exemple de DAO a Java
 
 ### Compilació i funcionament ###
 
